@@ -1,0 +1,4 @@
+{"email":"bob.stucky@email.com","firstName":"Bob","lastName":"Stucky","address":"687 Swanson Dr. New York NY 10024","friends":[]}
+{"email":"daniel.ghindea@gmail.com","firstName":"Daniel","lastName":"Ghindea","address":"Str.Politemnistului 1 Bucuresti Romania","friends":["bob.stucky@email.com"]}
+new Notification: 100000 USD were added to your account
+new Notification: You received 5000.0 USD from bob.stucky@email.com

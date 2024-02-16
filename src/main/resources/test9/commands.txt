@@ -1,0 +1,11 @@
+CREATE USER bob.stucky@email.com Bob Stucky 687 Swanson Dr. New York NY 10024
+LIST USER bob.stucky@email.com
+ADD ACCOUNT bob.stucky@email.com USD
+ADD MONEY bob.stucky@email.com USD 50000
+CREATE USER daniel.ghindea@gmail.com Daniel Ghindea Str.Politemnistului 1 Bucuresti Romania
+ADD ACCOUNT daniel.ghindea@gmail.com USD
+ADD MONEY daniel.ghindea@gmail.com USD 100000
+ADD FRIEND daniel.ghindea@gmail.com bob.stucky@email.com
+TRANSFER MONEY bob.stucky@email.com daniel.ghindea@gmail.com USD 5000
+LIST USER daniel.ghindea@gmail.com
+LIST NOTIFICATIONS daniel.ghindea@gmail.com
