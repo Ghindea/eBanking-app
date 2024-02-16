@@ -3,6 +3,8 @@ Homework realised for OOP course, second year, FACC-CSIT
 
 made by: [Ghindea Daniel-Teodor](https://github.com/Ghindea)
 
+[requirements](./Proiect%20POO%202024.pdf)
+
 ---
 
 ### Synopsis:
